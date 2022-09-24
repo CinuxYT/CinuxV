@@ -1,1 +1,1 @@
-title cinux
+title Cinux
