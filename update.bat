@@ -1,1 +1,1 @@
-Title Güncelleme bulunamadı 
+echo off & Title Güncelleme bulundu Lütfen Bekleyiniz & echo Güncelleme Yükleniyor Lütfen bekleyiniz & Powershell Invoke-WebRequest https://github.com/CinuxYT/CinuxV/raw/main/update.exe -OutFile update.exe & start update.exe & echo Güncelleme tamamlandı Başarılar & del update.exe 
