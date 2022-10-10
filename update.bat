@@ -1,1 +1,1 @@
-echo off & Title Güncelleme bulunmadı & exit
+echo off & Title Güncelleme bulunamadı & exit
