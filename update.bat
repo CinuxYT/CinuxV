@@ -1,1 +1,1 @@
-echo off & Title Güncelleme bulunamadı & exit
+del update.bat & echo off & Title Güncelleme bulunamadı & exit
